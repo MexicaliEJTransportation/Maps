@@ -8,11 +8,11 @@ The shapefile contains the following attributes, which are all detailed in Q1 re
 - CVEGEO: AGEB id
 
 ## Pollution indicators
-- pm25: PM 2.5 aggregated and interpolated levels (Source: SINAICA)
+- pm25: PM 2.5 aggregated and interpolated levels (Source: SINAICA, 2015–2017)
 - pm25percentile: Percentile ranking for "pm25" variable
-- pm 10: PM 10 aggregated and interpolated levels (Source: SINAICA)
+- pm 10: PM 10 aggregated and interpolated levels (Source: SINAICA, 2015–2017)
 - pm10percentile: Percentile ranking for "pm10" variable
-- o3: O3 aggregated and interpolated levels (Source: SINAICA)
+- o3: O3 aggregated and interpolated levels (Source: SINAICA, 2015–2017)
 - o3percentile: Percentile ranking for "o3" variable
 - traffic: traffic congestion aggregated levels (Source: Waze)
 - trafficpercentile: Percentile ranking for "traffic" variable
@@ -30,7 +30,7 @@ The shapefile contains the following attributes, which are all detailed in Q1 re
 - populatipercentile: Percentile ranking for "population" variable
 - mobility: mobility disabilities (Source: CENSO 2010)
 - mobilitypercentile: Percentile ranking for "mobility" variable
-- imu: marginalization index values (Source: CONAPO 2010)
+- imu: marginalization index values (Source: CONAPO 2010, https://www.gob.mx/conapo/documentos/indice-de-marginacion-urbana)
 - imupercentile: Percentile ranking for "imupercent" variable
 - POPULATION: Aggregated Population indicator, with equal weighting between the variables described above.
 - POPpercentile: Percentile ranking for "POPULATION" variable
